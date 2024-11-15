@@ -1,0 +1,2 @@
+->Developed an Eye-Controlled Mouse System using Python and OpenCV, enabling hands-free computer interaction by tracking eye movements for cursor control.
+->Implemented Facial Landmark Detection to accurately capture eye gaze direction and map it to screen coordinates, enhancing accessibility for users with physical disabilities.
